@@ -1,4 +1,4 @@
-@import url('../images/cropcircle05.jpeg');
+@import url('https://cropcircle.bauska.org/images/1996 2001 lunar cycles.jpg');
 
 :root {
     --bg-size: 100% 100%;
@@ -56,7 +56,7 @@ body {
 
 .main_header__div {
     height: calc(100vh - 40vh);
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0)), url('../images/cropcircle05.jpeg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0)), url('https://cropcircle.bauska.org/images/cropcircle07.jpeg');
     background-size: var(--bg-size);
 }
 
@@ -284,7 +284,7 @@ figure img:hover,
     justify-content: flex-end;
     align-items: flex-start;
     flex-direction: column;
-    background-image: linear-gradient(to bottom, transparent 50%, rgba(208, 206, 207, 0.8) 50%), url('../images/cropcircle05.jpeg');
+    background-image: linear-gradient(to bottom, transparent 50%, rgba(208, 206, 207, 0.8) 50%), url('https://cropcircle.bauska.org/images/cropcircle13.jpg');
     background-size: var(--bg-size);
 }
 
@@ -310,22 +310,22 @@ figure img:hover,
 }
 
 .popular_post__img1 {
-    background-image: url('../images/bg.png');
+    background-image: url('https://cropcircle.bauska.org/images/cropcircle05.jpeg');
     background-size: var(--bg-size);
 }
 
 .popular_post__img2 {
-    background-image: url('../images/cropcircle05.jpeg');
+    background-image: url('https://cropcircle.bauska.org/images/cropcircle06.jpg');
     background-size: var(--bg-size);
 }
 
 .popular_post__img3 {
-    background-image: url('../images/cropcircle05.jpeg');
+    background-image: url('https://cropcircle.bauska.org/images/cropcircle11.jpg');
     background-size: var(--bg-size);
 }
 
 .popular_post__img4 {
-    background-image: url('../images/cropcircle05.jpeg');
+    background-image: url('https://cropcircle.bauska.org/images/cropcircle12.jpg');
     background-size: var(--bg-size);
 }
 
