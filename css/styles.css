@@ -315,17 +315,17 @@ figure img:hover,
 }
 
 .popular_post__img2 {
-    background-image: url('../images/mz.jpg');
+    background-image: url('images/cropcircle05.jpeg');
     background-size: var(--bg-size);
 }
 
 .popular_post__img3 {
-    background-image: url('../images/zb.jpg');
+    background-image: url('images/cropcircle05.jpeg');
     background-size: var(--bg-size);
 }
 
 .popular_post__img4 {
-    background-image: url('../images/sj.jpg');
+    background-image: url('images/cropcircle05.jpeg');
     background-size: var(--bg-size);
 }
 
